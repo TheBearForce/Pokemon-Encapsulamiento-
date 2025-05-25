@@ -1,4 +1,5 @@
 📝 Descripción Detallada del Proyecto "Pokédex en C# .NET WinForms"
+
 🎯 Objetivo General:
 El objetivo del proyecto es construir una Pokédex funcional utilizando Windows Forms en C# .NET, aplicando los principios de la Programación Orientada a Objetos (POO) como encapsulamiento, persistencia de datos y diseño modular.
 
